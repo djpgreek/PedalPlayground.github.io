@@ -21302,6 +21302,13 @@
 		"Height": 4.8,
 		"Image": "zvex-woollymammoth7.png"
 	},
+{
+		"Brand": "Kingsley",
+		"Name": "Serf",
+		"Width": 3.25,
+		"Height": 4,
+		"Image": "kingsley-serf.png"
+	},
 	{
 		"Brand": "Zvex",
 		"Name": "Woolly Mammoth Vexter",
