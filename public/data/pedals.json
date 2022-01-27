@@ -21309,6 +21309,13 @@
 		"Height": 4,
 		"Image": "kingsley-serf.png"
 	},
+{
+		"Brand": "TC",
+		"Name": "SCF Gold",
+		"Width": 3.7,
+		"Height": 5,
+		"Image": "tc-scf-gold.png"
+	},
 	{
 		"Brand": "Zvex",
 		"Name": "Woolly Mammoth Vexter",
